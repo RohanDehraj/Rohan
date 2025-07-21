@@ -5,3 +5,4 @@
 - 🌱 Currently working on: DSA + Projects
 - ### 📫 Connect with Me
 - https://www.linkedin.com/in/rohan-a694642b7/
+- rohandehraj1@gmail.com
